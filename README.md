@@ -22,7 +22,7 @@ Make sure pyinstaller is installed, make sure python path directed properly in '
 how my pyinstaller command line looks like:
 
 ```batch
-pyinstaller --noconfirm --name "temeats"  --onedir --windowed --clean --hidden-import=clr --paths "C:\Users\dower\OneDrive\pywebviewEVERYTHIGN\testingFlask\customerTable\venv\Lib\site-packages" "C:\Users\dower\OneDrive\pywebviewEVERYTHIGN\testingFlask\customerTable\main.py"
+pyinstaller --noconfirm --name "myapp"  --onedir --windowed --clean --hidden-import=clr --paths "C:\Users\dower\OneDrive\pywebviewEVERYTHIGN\testingFlask\customerTable\venv\Lib\site-packages" "C:\Users\dower\OneDrive\pywebviewEVERYTHIGN\testingFlask\customerTable\main.py"
 ```
 
 
