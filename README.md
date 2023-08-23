@@ -1,5 +1,7 @@
 # RuntimeError: Failed to resolve Python.Runtime.Loader.Initialize
 
+update .NET runtime
+
 RuntimeError: Failed to resolve Python.Runtime.Loader.Initialize from C:\Users\sam\Downloads\customerSearch (2)\temeats\pythonnet\runtime\Python.Runtime.dll site:stackoverflow.com
 
 add this to your projects folder (only needed) as requirements.txt
